@@ -1,0 +1,1 @@
+cp build/puzzle-alarm.uf2 /Volumes/RP2350
